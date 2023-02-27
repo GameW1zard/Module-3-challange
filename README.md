@@ -17,7 +17,7 @@ It's a simple webpage Open in your browser of choice
 Riven Loya: Main work and implementation
 
 
-![screenshot of webpage](/images/Untitled.png?raw=true " ")
+![screenshot of webpage](/Images/Untitledmages/Untitled.png?raw=true " ")
 
 
 
